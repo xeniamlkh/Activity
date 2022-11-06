@@ -8,9 +8,7 @@
     - В layout файл **ActivityC** добавьте кнопки с текстом “Open ActivityA”, “Open ActivityD”, “Close ActivityC”, “Close Stack”
 2. Покрасьте бекграунды Activity: **ActivityA** в `#f44336`, **ActivityB** в `#4caf50,` **ActivityC** в `#2196f3`, **ActivityD** в `#ffeb3b`
 
-    <aside>
-    💡 Используйте атрибут `android:background`
-    </aside>
+> 💡 Используйте атрибут `android:background`
 
 3. Подготовьте пустые `onClickListener`’ы для обработки нажатия на кнопки
 
