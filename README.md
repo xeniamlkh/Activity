@@ -1,4 +1,4 @@
-# Activity #1 Homework
+# Activity #1 
 
 ### Задание #1
 
